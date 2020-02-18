@@ -1,0 +1,14 @@
+{
+  "name": "dead2d-sdk-core",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miswanting",
+  "license": "GPL-3.0+",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
