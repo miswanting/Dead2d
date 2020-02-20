@@ -1,0 +1,17 @@
+{
+  "name": "dead2d-core",
+  "version": "0.1.0-200218",
+  "description": "",
+  "main": "/dist/dead2d-core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miswanting",
+  "license": "GPL-3.0+",
+  "devDependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
